@@ -12,7 +12,7 @@ Print a message to the console indicating whether the element is present in the 
 
 let books = ["Bangla", "Math", "JS", "English", "chemisty"];
 
-let book = books.includes("JS");
+let book = books.includes("JS");//Use includes to check the book javascript is present or not
 
 console.log(books);
 
